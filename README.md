@@ -1,2 +1,2 @@
-# ruby_challenges
+# ruby-challenges
 Skillcrush 104 Ruby Challenges
